@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: floralwhite;
+}
+
+h1 {
+    color: firebrick;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    color: crimson;
+}
+
+p {
+    color: brown;
+    font-size: 20px;
+}
