@@ -27,3 +27,13 @@ p {
 .recipe-page-links {
    color: indianred; 
 }
+
+.ingredients-list
+li {
+    color: teal;
+}
+
+.list-of-steps
+li {
+    color: sienna;
+}
